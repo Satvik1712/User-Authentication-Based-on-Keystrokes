@@ -1,4 +1,4 @@
-Title: Multi-Modal User Authentication: Integrating Keystroke Dynamics and Facial Recognition.
+# Multi-Modal User Authentication: Integrating Keystroke Dynamics and Facial Recognition.
 
 
 This project has 2 parts authentication based on key strokes and face detection.
